@@ -1,0 +1,8 @@
+File organize 
+  ~read the file format and organize to appropriate folder
+  
+Unit Converter:
+  ~program to convert units along with a GUI using tkinter to make it easier to use.
+  
+QR Code generator:
+  ~  Enter a URL or input url to genrate QR code using import qrcode library
